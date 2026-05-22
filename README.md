@@ -8,7 +8,7 @@
 
 <br/>
 
-🔭 &nbsp;EE student at McMaster passionate about building real things that make a real difference — from embedded firmware to full-stack systems.
+🔭 &nbsp;EE student at McMaster passionate about building real things that make a real difference, from embedded firmware to full-stack systems.
 
 🤖 &nbsp;Diving deep into the world of LLMs, RAG pipelines, and agentic AI. Currently at **RBC** shipping an AI-driven incident resolution system using LangChain and Elasticsearch.
 
