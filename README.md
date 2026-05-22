@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazan%20Qwasmi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Electrical%20Engineering%20%40%20McMaster%20%C2%B7%20Co-op%202027&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazan%20Qwasmi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Electrical%20Engineering%20%40%20McMaster%20%C2%B7%20Class%20of%202027&descSize=18&descAlignY=58" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=building+systems+that+matter;hardware+%C3%97+ml+%C3%97+full-stack;from+silicon+to+cloud)](https://git.io/typing-svg)
 
@@ -10,15 +10,15 @@
 
 ## 🌍 What Drives Me
 
-I want to build technology that makes a real difference in the physical world. Not just software — systems that sense, think, and act. I care deeply about the intersection of **embedded hardware**, **machine learning**, and **human impact**: bringing intelligence to the edge, automating what slows people down, and engineering solutions that hold up outside the lab.
+I want to build technology that actually matters in the physical world. Not just software but systems that sense, think, and respond. I'm drawn to the space where **embedded hardware**, **machine learning**, and **real human impact** meet: getting intelligence closer to where it's needed, cutting friction people live with every day.
 
-I'm currently at **RBC** building AI tools that help engineers resolve incidents faster. Before that, I've built everything from microcontroller firmware to full-stack telemetry platforms — always chasing the problem that's hardest to solve end-to-end.
+Right now I'm at **RBC** shipping AI tools that help engineers diagnose and fix incidents faster. I've also spent a lot of time building from scratch, from microcontroller firmware to full-stack telemetry platforms, always pulling toward the problems that feel hardest to get right end-to-end.
 
 ---
 
 ## 💡 What I Believe
 
-- ⚡ The best engineering spans the full stack — silicon to cloud
+- ⚡ The best engineering spans the full stack, from silicon to cloud
 - 🤝 Technology should reduce friction for real people, not just look good in demos
 - 🌱 The problems worth solving are the ones that feel impossible at first
 - 📡 Intelligence belongs at the edge, close to where the world actually happens
