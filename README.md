@@ -37,17 +37,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yazanqwasmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanqwasmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
