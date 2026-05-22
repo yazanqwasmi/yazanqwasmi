@@ -6,7 +6,9 @@
 
 </div>
 
-<br/>
+---
+
+## 🌍 What Drives Me
 
 🔭 &nbsp;I want to build technology that actually matters in the physical world. Not just software but systems that sense, think, and respond. I'm drawn to the space where embedded hardware, machine learning, and human impact meet.
 
@@ -14,7 +16,9 @@
 
 🛠️ &nbsp;I like problems that span the full stack, from hardware up. Intelligence belongs at the edge, close to where the world actually happens.
 
-<br/>
+---
+
+## 🛠️ Tech
 
 <div align="center">
 
@@ -31,7 +35,20 @@
 
 </div>
 
-<br/>
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yazanqwasmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanqwasmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
