@@ -8,11 +8,11 @@
 
 <br/>
 
-🔭 &nbsp;EE student at McMaster passionate about building real things that make a real difference, from embedded firmware to full-stack systems.
+🔭 &nbsp;I want to build technology that actually matters in the physical world. Not just software but systems that sense, think, and respond. I'm drawn to the space where embedded hardware, machine learning, and human impact meet.
 
-🤖 &nbsp;Diving deep into the world of LLMs, RAG pipelines, and agentic AI. Currently at **RBC** shipping an AI-driven incident resolution system using LangChain and Elasticsearch.
+🤖 &nbsp;Diving deep into LLMs, RAG pipelines, and agentic AI. Currently at **RBC** shipping an AI-driven incident resolution system with LangChain and Elasticsearch, always pulling toward the problems that feel hardest to get right.
 
-🛠️ &nbsp;I like problems that span the full stack, from hardware up.
+🛠️ &nbsp;I like problems that span the full stack, from hardware up. Intelligence belongs at the edge, close to where the world actually happens.
 
 <br/>
 
