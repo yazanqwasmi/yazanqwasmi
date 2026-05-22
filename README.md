@@ -1,45 +1,18 @@
-# Hi, I'm Yazan 👋
+## Yazan Qwasmi
 
-**Software & ML Engineer** — I build end-to-end systems across embedded hardware, full-stack web, and machine learning.
+Electrical Engineering @ McMaster (2027) · hardware × ML × systems
 
----
-
-## 🔧 What I Build
-
-- **Embedded & IoT** — ESP32 firmware, real-time sensor telemetry, battery management systems
-- **Full-Stack Web** — React dashboards, Node.js/Express APIs, time-series databases (InfluxDB)
-- **Machine Learning** — LSTM time-series forecasting, computer vision (YOLO), NLP classifiers
-- **Data Engineering** — Python data pipelines, TensorFlow/Keras models, Jupyter notebooks
+**Now:** Automation Developer @ RBC — LLM-driven incident resolution with LangChain, OpenAI embeddings, and Elasticsearch
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [BMS Digital Twin](https://github.com/yazanqwasmi/bms-dual-modal-soc-digital-twin) | React · Node.js · InfluxDB · TF · ESP32 | Real-time battery management with dual-modal SOC estimation |
-| [YOLO Object Classifier](https://github.com/yazanqwasmi/YOLO-object-classifier) | Python · OpenCV · YOLO | Real-time object detection from webcam, image, or video |
-| [Stock Price Predictor](https://github.com/yazanqwasmi/Alphabet_stock_-predictor) | Python · TensorFlow · LSTM | Deep learning time-series forecasting for Alphabet stock |
-| [Fake News Classifier](https://github.com/yazanqwasmi/ML-Fake-news-classifier-) | Python · Scikit-learn · NLP | ML classifier for detecting misinformation using TF-IDF |
+- **IEEE ECCE 2026** — first-authored paper on wireless BMS with edge-to-cloud ML pipeline for real-time SOC estimation
+- **1st Place** — McMaster ECE Capstone Design Expo 2026, across all ECE teams
+- Custom CUDA SpMM kernel — **1.46× faster than NVIDIA cuSPARSE** via CSR-optimized thread scheduling
+- SLAM-based autonomous EV on Jetson Nano — RPLiDAR + IMU fusion, zero manual intervention in all final runs
 
 ---
 
-## 🛠 Tech Stack
+`C++` `CUDA` `Python` `Go` `TypeScript` `PyTorch` `LangChain` `React` `ESP32`
 
-**Languages:** Python · JavaScript · TypeScript · C++ · PHP  
-**ML/DL:** TensorFlow · Keras · Scikit-learn · OpenCV · YOLO  
-**Web:** React · Node.js · Express · HTML/CSS  
-**Databases:** InfluxDB · SQL  
-**Hardware:** Arduino · ESP32 · PlatformIO · Raspberry Pi  
-**Tools:** Git · Docker · Jupyter · VS Code
-
----
-
-## 📫 Get In Touch
-
-- 🌐 [Portfolio](https://yazanqwasmi.github.io)
-- 📧 yazan.was2@gmail.com
-
----
-
-*Always building something new.*
+[portfolio](https://yazanqwasmi.github.io) · [linkedin](https://linkedin.com/in/yazan-qwasmi) · yazan.qwasmi1@gmail.com
