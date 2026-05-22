@@ -8,8 +8,6 @@
 
 ---
 
-## 🌍 What Drives Me
-
 🔭 &nbsp;I want to build technology that actually matters in the physical world. Not just software but systems that sense, think, and respond. I'm drawn to the space where embedded hardware, machine learning, and human impact meet.
 
 🤖 &nbsp;Diving deep into LLMs, RAG pipelines, and agentic AI. Currently at **RBC** shipping an AI-driven incident resolution system with LangChain and Elasticsearch, always pulling toward the problems that feel hardest to get right.
